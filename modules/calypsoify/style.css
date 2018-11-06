@@ -315,11 +315,11 @@ ul#adminmenu a.wp-has-current-submenu:after, ul#adminmenu>li.current>a.current:a
 
 @media screen and (max-width: 600px) {
 	#calypso-sidebar-header {
-		top: 46px;
+		top: 32px;
 	}
 
 	.auto-fold #adminmenu {
-		top: 46px;
+		top: 32px;
 	}
 }
 
